@@ -1,0 +1,283 @@
+# depslib dependency file v1.0
+1652481266 source:e:\practicaprog\pparciallabo\color.c
+	"color.h"
+
+1652481474 e:\practicaprog\pparciallabo\color.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652478968 source:e:\practicaprog\pparciallabo\fecha.c
+
+1652117220 source:e:\practicaprog\pparciallabo\inputs.c
+	"inputs.h"
+
+1652455398 e:\practicaprog\pparciallabo\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1652489608 source:e:\practicaprog\pparciallabo\mascota.c
+	"mascota.h"
+
+1652489542 e:\practicaprog\pparciallabo\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"color.h"
+	"tipo.h"
+
+1652481836 e:\practicaprog\pparciallabo\tipo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652488456 source:e:\practicaprog\pparciallabo\servicio.c
+	"servicio.h"
+
+1652481848 source:e:\practicaprog\pparciallabo\tipo.c
+	"tipo.h"
+
+1652488712 source:e:\practicaprog\pparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"tipo.h"
+	"mascota.h"
+	"servicio.h"
+
+1652490076 source:e:\practicaprog\pparciallabo\trabajo.c
+	"trabajo.h"
+
+1652488524 e:\practicaprog\pparciallabo\servicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652489376 e:\practicaprog\pparciallabo\trabajo.h
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+
+1652478950 e:\practicaprog\pparciallabo\fecha.h
+
+1652481266 source:d:\fra\gitparciallabo2022\pparciallabo\color.c
+	"color.h"
+
+1652481474 d:\fra\gitparciallabo2022\pparciallabo\color.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652478968 source:d:\fra\gitparciallabo2022\pparciallabo\fecha.c
+
+1652117220 source:d:\fra\gitparciallabo2022\pparciallabo\inputs.c
+	"inputs.h"
+
+1652455398 d:\fra\gitparciallabo2022\pparciallabo\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1652490294 source:d:\fra\gitparciallabo2022\pparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"tipo.h"
+	"mascota.h"
+	"servicio.h"
+	"trabajo.h"
+
+1652481836 d:\fra\gitparciallabo2022\pparciallabo\tipo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652489542 d:\fra\gitparciallabo2022\pparciallabo\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"color.h"
+	"tipo.h"
+
+1652488524 d:\fra\gitparciallabo2022\pparciallabo\servicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652489376 d:\fra\gitparciallabo2022\pparciallabo\trabajo.h
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+
+1652478950 d:\fra\gitparciallabo2022\pparciallabo\fecha.h
+
+1652489608 source:d:\fra\gitparciallabo2022\pparciallabo\mascota.c
+	"mascota.h"
+
+1652488456 source:d:\fra\gitparciallabo2022\pparciallabo\servicio.c
+	"servicio.h"
+
+1652481848 source:d:\fra\gitparciallabo2022\pparciallabo\tipo.c
+	"tipo.h"
+
+1652490076 source:d:\fra\gitparciallabo2022\pparciallabo\trabajo.c
+	"trabajo.h"
+
+1652830033 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\color.c
+	"color.h"
+
+1652826711 d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\color.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652478968 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\fecha.c
+
+1652117220 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\inputs.c
+	"inputs.h"
+
+1652455398 d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1652830045 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\tipo.c
+	"tipo.h"
+
+1652828649 d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\tipo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653017401 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"tipo.h"
+	"mascota.h"
+	"servicio.h"
+	"trabajo.h"
+
+1652912768 d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"color.h"
+	"tipo.h"
+
+1652828780 d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\servicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652826711 d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\trabajo.h
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"mascota.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1652478950 d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\fecha.h
+
+1652963507 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\mascota.c
+	"mascota.h"
+
+1652833998 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\servicio.c
+	"servicio.h"
+
+1652847119 source:d:\fra\lab_prog1\2022_ejercicios\ejerciciosenclase2022\pparciallabo\trabajo.c
+	"trabajo.h"
+
+1652830034 source:e:\practicaprog\pparciallabo2daparte\color.c
+	"color.h"
+
+1652826712 e:\practicaprog\pparciallabo2daparte\color.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652478968 source:e:\practicaprog\pparciallabo2daparte\fecha.c
+
+1652117220 source:e:\practicaprog\pparciallabo2daparte\inputs.c
+	"inputs.h"
+
+1652455398 e:\practicaprog\pparciallabo2daparte\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1653081876 source:e:\practicaprog\pparciallabo2daparte\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"tipo.h"
+	"mascota.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+
+1652828650 e:\practicaprog\pparciallabo2daparte\tipo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653086922 e:\practicaprog\pparciallabo2daparte\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"color.h"
+	"tipo.h"
+
+1652828782 e:\practicaprog\pparciallabo2daparte\servicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653089310 e:\practicaprog\pparciallabo2daparte\trabajo.h
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"mascota.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+
+1652478950 e:\practicaprog\pparciallabo2daparte\fecha.h
+
+1653087036 source:e:\practicaprog\pparciallabo2daparte\mascota.c
+	"mascota.h"
+
+1652834000 source:e:\practicaprog\pparciallabo2daparte\servicio.c
+	"servicio.h"
+
+1652830046 source:e:\practicaprog\pparciallabo2daparte\tipo.c
+	"tipo.h"
+
+1653089850 source:e:\practicaprog\pparciallabo2daparte\trabajo.c
+	"trabajo.h"
+
+1653090318 e:\practicaprog\pparciallabo2daparte\informes.h
+	"fecha.h"
+	"inputs.h"
+	"mascota.h"
+	"servicio.h"
+	"trabajo.h"
+
+1653090358 source:e:\practicaprog\pparciallabo2daparte\informes.c
+	"informes.h"
+
