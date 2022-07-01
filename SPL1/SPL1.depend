@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1656547470 source:e:\progsencodeb\spl1\inputs.c
+	"inputs.h"
+
+1656547470 e:\progsencodeb\spl1\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1656715566 source:e:\progsencodeb\spl1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656699432 e:\progsencodeb\spl1\linkedlist.h
+
+1656719576 source:e:\progsencodeb\spl1\controller.c
+	"Controller.h"
+
+1656716954 e:\progsencodeb\spl1\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"inputs.h"
+	"movies.h"
+
+1656713646 e:\progsencodeb\spl1\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movies.h"
+
+1656717000 e:\progsencodeb\spl1\movies.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656719468 source:e:\progsencodeb\spl1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"inputs.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1656717412 source:e:\progsencodeb\spl1\parser.c
+	"parser.h"
+
+1656718934 source:e:\progsencodeb\spl1\movies.c
+	"movies.h"
+
